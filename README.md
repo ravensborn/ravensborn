@@ -26,8 +26,10 @@ I’m Yad, a developer from Kurdistan who enjoys turning ideas into useful softw
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ravensborn&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="Yad's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravensborn&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Yad's most used languages" />
+[![Repositories](https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fravensborn&style=flat-square&color=181717)](https://github.com/ravensborn?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/ravensborn?label=Followers&style=flat-square&color=0e75b6)](https://github.com/ravensborn)
+[![Stars](https://img.shields.io/github/stars/ravensborn?label=Stars&style=flat-square&color=e3b341)](https://github.com/ravensborn?tab=repositories)
+[![Joined GitHub](https://img.shields.io/github/created-at/ravensborn?label=Joined&style=flat-square&color=2ea44f)](https://github.com/ravensborn)
 
 </div>
 
