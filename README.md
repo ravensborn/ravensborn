@@ -13,14 +13,22 @@
 
 ---
 
-## About me
+## Technologies I use
 
-I’m Yad, a developer from Kurdistan who enjoys turning ideas into useful software. This profile is where I share projects, experiments, and the things I’m learning along the way.
+<div align="center">
 
-- 🔭 Exploring new ideas and building practical projects
-- 🧠 Learning something new every day
-- 🤝 Open to interesting collaborations
-- 📫 The best way to reach me is through [GitHub](https://github.com/ravensborn)
+<a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP" /></a>
+<a href="https://laravel.com/" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" width="48" alt="Laravel" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /></a>
+<a href="https://vuejs.org/" title="Vue"><img src="https://skillicons.dev/icons?i=vue" width="48" alt="Vue" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter" /></a>
+<a href="https://dart.dev/" title="Dart"><img src="https://skillicons.dev/icons?i=dart" width="48" alt="Dart" /></a>
+<a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" /></a>
+
+</div>
 
 ## GitHub at a glance
 
