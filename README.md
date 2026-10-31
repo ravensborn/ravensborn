@@ -4,7 +4,7 @@
 
 ### Building useful things, learning constantly, and sharing the journey.
 
-📍 Kurdistan · 💻 Developer · 🌱 Always exploring
+📍 Lithuania · 💻 Developer · 🌱 Always exploring
 
 [![GitHub followers](https://img.shields.io/github/followers/ravensborn?label=Follow&style=flat-square&color=181717)](https://github.com/ravensborn)
 [![Profile views](https://komarev.com/ghpvc/?username=ravensborn&style=flat-square&color=0e75b6)](https://github.com/ravensborn)
